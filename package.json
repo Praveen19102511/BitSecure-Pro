@@ -1,13 +1,11 @@
-"engines": {
-  "node": "20.11.1",
-  "npm": "10.5.2"
-}
-
-
 {
   "name": "bitsecure-pro",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "v18.12.1",
+    "npm": "9.2.0"
+  },
   "dependencies": {
     "@emotion/babel-plugin": "^11.11.0",
     "@emotion/react": "^11.11.4",
