@@ -6,6 +6,9 @@
     "node": "v18.12.1",
     "npm": "9.2.0"
   },
+  "resolutions": {
+    "react-html-parser": "5.1.10"
+  },
   "dependencies": {
     "@emotion/babel-plugin": "^11.11.0",
     "@emotion/react": "^11.11.4",
