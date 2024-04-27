@@ -1,3 +1,9 @@
+"engines": {
+  "node": "20.11.1",
+  "npm": "10.5.2"
+}
+
+
 {
   "name": "bitsecure-pro",
   "version": "0.1.0",
