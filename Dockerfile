@@ -1,4 +1,4 @@
-FROM node:v18.12.1
+FROM node:latest
 
 RUN mkdir /root/app
 WORKDIR /root/app
